@@ -1,0 +1,50 @@
+Accountant
+Actor
+Administrator
+Analyst
+Artist
+Athlete
+Author
+Chef
+Coach
+Consultant
+Counselor
+Designer
+Developer
+Doctor
+Editor
+Engineer
+Entrepreneur
+Event Planner
+Financial Advisor
+Fitness Trainer
+Graphic Designer
+Human Resources Manager
+Interpreter
+Journalist
+Lawyer
+Marketer
+Musician
+Nutritionist
+Personal Assistant
+Photographer
+Physical Therapist
+Programmer
+Project Manager
+Psychologist
+Public Relations Specialist
+Real Estate Agent
+Researcher
+Sales Representative
+Scientist
+Social Media Manager
+Software Developer
+Teacher
+Technical Writer
+Translator
+Travel Agent
+Video Editor
+Virtual Assistant
+Web Developer
+Writer
+Zoologist
